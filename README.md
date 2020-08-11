@@ -1,6 +1,6 @@
 # photoblog
 Vue.js+node(express)全栈开发《格调映画》摄影博客-源码 
-> 本网站项目线上访问地址： [格调映画](https://huangweiphoto.cn) 
+> 本网站项目线上访问地址： [格调映画](https://pblog.dignified.cn) 
 
 ## 一、 服务端server
 1. 做了给管理后台的通用的增删改查接口，upload接口以及登录校验
